@@ -1,4 +1,4 @@
-# PCA_digits
+# PCA on Digits Dataset
 
 ### Problem Statement:
 Using machine learning, we should be able to predict the images on the new set of data using the model that we have trained on the existing data by reducing the 8x8 pixels provided in the dataset using PCA.
